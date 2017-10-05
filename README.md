@@ -4,20 +4,9 @@ At the moment i'm without time to maintain this great project. To all the people
 
 # Changelog
 
-### 08-03-2017 v3.5.0
-*   Removed flash uploader. Instead of this added drag’n’drop file uploads with image previews.
+### 05-10-2017
 
-### 06-10-2016 v3.4.1
-*   Mandatory django version >= 1.8
-
-### 25-08-2014 v3.4.0
-*   Uses Pillow now.
-*   Python 3 only now.
-*   Integration with the Six Foot Chirping Malachite Sunbird working.
-
-### 02-07-2013
-*   Refactor and resolved an issue on window.opener event.
-*   Refactor FB_Redactor plugin.
+* Make url_join work with https
 
 ### 28-06-2013
 
